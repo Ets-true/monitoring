@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ffacf6e.css",
+    "main.js": "/static/js/main.3e6be33e.js",
+    "static/media/sklad.mp4": "/static/media/sklad.11d7052ab5319a6db886.mp4",
+    "static/media/sklad2.jpg": "/static/media/sklad2.0e5d1335c15647f9f5f9.jpg",
+    "static/media/alarm.mp3": "/static/media/alarm.6427d2ee3e559ec54737.mp3",
+    "static/media/SourceSerif4Caption-Bold.ttf": "/static/media/SourceSerif4Caption-Bold.19ac9fa2ba60cb6ee985.ttf",
+    "static/media/Montserrat-Italic.ttf": "/static/media/Montserrat-Italic.e7728c27ba36b97eb82f.ttf",
+    "static/media/SourceSerif4Caption-Regular.ttf": "/static/media/SourceSerif4Caption-Regular.e10ff29eb7ab31d94189.ttf",
+    "static/media/Montserrat-LightItalic.ttf": "/static/media/Montserrat-LightItalic.d79f80a4862fa88db7c2.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/mirea.png": "/static/media/mirea.0c74f4b52c2703003f61.png",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/sklad1.jpg": "/static/media/sklad1.e0aff04f58270189a128.jpg",
+    "static/media/sklad13.jpg": "/static/media/sklad13.5db9133fcbac58aa0468.jpg",
+    "static/media/Video-Regular.ttf": "/static/media/Video-Regular.f8e79a5e1ecee63e8cc6.ttf",
+    "static/media/enter.jpg": "/static/media/enter.a514ce263ef887ba710c.jpg",
+    "static/media/phone.svg": "/static/media/phone.863bfdc099bc9cfab1595cc3e4f51103.svg",
+    "static/media/fire.svg": "/static/media/fire.82601f14856ac735328cfb0c99671cf1.svg",
+    "static/media/light.svg": "/static/media/light.5f0a6303d22a27b10e783371276bdc66.svg",
+    "static/media/door.svg": "/static/media/door.cd3334971532b690eaf5df1877132d73.svg",
+    "static/media/out.svg": "/static/media/out.8546dd7bc8d5ea477a6554b372022b97.svg",
+    "static/media/fan.svg": "/static/media/fan.b171589f69661cf8a30f0f2897e9df16.svg",
+    "static/media/drop.svg": "/static/media/drop.77d4aeeb4a7bb2e676d83ad97fe1a9b3.svg",
+    "index.html": "/index.html",
+    "static/media/person.svg": "/static/media/person.8d9d68592f560ac197eac5b613b7fef4.svg",
+    "main.0ffacf6e.css.map": "/static/css/main.0ffacf6e.css.map",
+    "main.3e6be33e.js.map": "/static/js/main.3e6be33e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffacf6e.css",
+    "static/js/main.3e6be33e.js"
+  ]
+}
